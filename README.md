@@ -1,1 +1,1 @@
-# AugARC
+# AugARC - Augmented Abstraction and Reasoning Corpus (ARC)
