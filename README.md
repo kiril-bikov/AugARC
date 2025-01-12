@@ -8,15 +8,6 @@ In AugARC, the first prediction is based on a normal ARC task, whereas the secon
 
 Transformations on an ARC task to obtain its Augmented ARC variants are visualised below.
 
-- base ARC task
-  ![770cc55f_base](https://github.com/user-attachments/assets/f7410738-9237-4481-9bb3-74ac43614311)
-- 90° rotated task
-  ![770cc55f_90](https://github.com/user-attachments/assets/c14af79d-dcc8-42d9-9c1d-b3b0c796628b)
-- 270° rotated task
-  ![770cc55f_270](https://github.com/user-attachments/assets/f076714b-5c8a-4a59-909b-aa57e9ce9bb5)
-
-
-
-
-
-
+| Base | 90° Rotated | 270° Rotated |
+|:-------:|:-------:|:-------:|
+| ![770cc55f_base](https://github.com/user-attachments/assets/f7410738-9237-4481-9bb3-74ac43614311) | ![770cc55f_90](https://github.com/user-attachments/assets/c14af79d-dcc8-42d9-9c1d-b3b0c796628b) | ![770cc55f_270](https://github.com/user-attachments/assets/f076714b-5c8a-4a59-909b-aa57e9ce9bb5) |
