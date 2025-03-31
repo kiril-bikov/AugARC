@@ -25,9 +25,7 @@ https://osf.io/r58ks/
 
 If you use our data, please cite our paper:
 
-[AugARC: Augmented Abstraction and Reasoning Benchmark for Large Language Models](https://www.researchgate.net/profile/Soumya_Banerjee/publication/388406633_AugARC_Augmented_Abstraction_and_Reasoning_Benchmark_for_Large_Language_Models/links/67972f6a96e7fb48b9a2290c/AugARC-Augmented-Abstraction-and-Reasoning-Benchmark-for-Large-Language-Models.pdf)
-
-AugARC: Augmented Abstraction and Reasoning Benchmark for Large Language Models, Kiril Bikov, Mikel Bober-Irizar, Soumya Banerjee, AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches
+[AugARC: Augmented Abstraction and Reasoning Benchmark for Large Language Models, Kiril Bikov, Mikel Bober-Irizar, Soumya Banerjee, AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches](https://www.researchgate.net/profile/Soumya_Banerjee/publication/388406633_AugARC_Augmented_Abstraction_and_Reasoning_Benchmark_for_Large_Language_Models/links/67972f6a96e7fb48b9a2290c/AugARC-Augmented-Abstraction-and-Reasoning-Benchmark-for-Large-Language-Models.pdf)
 
 ## Contact
 
